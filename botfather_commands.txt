@@ -1,0 +1,20 @@
+BotFather mein yeh karo:
+1. @BotFather pe jao
+2. /setcommands bhejo
+3. Apna bot choose karo
+4. Neeche diya text EXACTLY copy-paste karo:
+
+─────────────────────────────────────────
+start - Bot info aur total saved files
+fetchall - Kisi bhi bot ka SAARA content lo
+fetch - Specific command ka response lo
+history - Database mein saved files dekhna
+login - Telegram account connect karo
+logout - Session hatao
+me - Logged-in account details
+status - Bot health aur uptime
+save - Chat ID + Message ID se save karo
+link - Telegram link se save karo
+batch - Multiple messages ek saath save karo
+help - Saari commands ki list
+─────────────────────────────────────────
